@@ -1,0 +1,11 @@
+7@Mina@2@D2@D.S@2@0@0@F2@F.O@2@0@0@M2@Math 3@2@0@3
+123@Lamis@3@A3@Algorithem@3@0@0@AI3@Artificial intelligance@3@0@3@OS3@Operating system@3@0@0
+12@Ann@1@S1@S.P@1@0@0@P1@Physics@1@0@3@M1@Math 1@1@0@0
+19@Nardine@4@W4@Web engineering@4@0@0@T4@testing@4@0@0@SD4@Software Design@4@0@0
+90@Cross@1@S1@S.P@1@0@0@P1@Physics@1@1@0@M1@Math 1@1@0@0
+1111@Ali@2@D2@D.S@2@0@0@F2@F.O@2@0@0@M2@Math 3@2@0@3
+13@Hazem@2@D2@D.S@2@0@0@F2@F.O@2@0@0@M2@Math 3@2@0@3
+12443@Nour@3@A3@Algorithem@3@0@0@AI3@Artificial intelligance@3@0@3@OS3@Operating system@3@0@0
+150@Ahmed@1@S1@S.P@1@0@0@P1@Physics@1@0@3@M1@Math 1@1@0@0
+100@lulu@4@W4@Web engineering@4@0@0@T4@testing@4@0@0@SD4@Software Design@4@0@0
+123412@Kisdja@4@W4@Web Eng@4@0@0@T4@Testing@4@0@0@SD4@S.W Design@4@0@0
